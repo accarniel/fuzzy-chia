@@ -1,0 +1,217 @@
+solvent,temperature,extraction_time,mass_yield
+Water,40,15,1.408
+Water,40,15,1.408
+Water,40,15,1.408
+Water,40,15,1.408
+Water,40,45,1.408
+Water,40,45,1.408
+Water,40,45,1.409
+Water,40,45,1.409
+Water,40,60,1.408
+Water,40,60,1.408
+Water,40,60,1.408
+Water,40,60,1.408
+Water,50,15,1.421
+Water,50,15,1.421
+Water,50,15,1.422
+Water,50,15,1.422
+Water,50,45,1.422
+Water,50,45,1.422
+Water,50,45,1.422
+Water,50,45,1.422
+Water,50,60,1.424
+Water,50,60,1.424
+Water,50,60,1.425
+Water,50,60,1.425
+Water,60,15,1.433
+Water,60,15,1.433
+Water,60,15,1.431
+Water,60,15,1.431
+Water,60,45,1.435
+Water,60,45,1.435
+Water,60,45,1.431
+Water,60,45,1.431
+Water,60,60,1.432
+Water,60,60,1.432
+Water,60,60,1.43
+Water,60,60,1.43
+Water,70,15,1.435
+Water,70,15,1.435
+Water,70,15,1.43
+Water,70,15,1.43
+Water,70,45,1.433
+Water,70,45,1.433
+Water,70,45,1.43
+Water,70,45,1.43
+Water,70,60,1.431
+Water,70,60,1.431
+Water,70,60,1.434
+Water,70,60,1.434
+Water,80,15,1.477
+Water,80,15,1.477
+Water,80,15,1.477
+Water,80,15,1.477
+Water,80,45,1.479
+Water,80,45,1.479
+Water,80,45,1.48
+Water,80,45,1.48
+Water,80,60,1.476
+Water,80,60,1.476
+Water,80,60,1.477
+Water,80,60,1.477
+Water,In natura,15,1.379
+Water,In natura,15,1.379
+Water,In natura,15,1.376
+Water,In natura,15,1.376
+Water,In natura,45,1.379
+Water,In natura,45,1.379
+Water,In natura,45,1.379
+Water,In natura,45,1.379
+Water,In natura,60,1.381
+Water,In natura,60,1.381
+Water,In natura,60,1.377
+Water,In natura,60,1.377
+Methanol,40,15,1.409
+Methanol,40,15,1.409
+Methanol,40,15,1.408
+Methanol,40,15,1.408
+Methanol,40,45,1.409
+Methanol,40,45,1.409
+Methanol,40,45,1.408
+Methanol,40,45,1.408
+Methanol,40,60,1.412
+Methanol,40,60,1.412
+Methanol,40,60,1.408
+Methanol,40,60,1.408
+Methanol,50,15,1.437
+Methanol,50,15,1.432
+Methanol,50,15,1.432
+Methanol,50,15,1.432
+Methanol,50,45,1.423
+Methanol,50,45,1.435
+Methanol,50,45,1.423
+Methanol,50,45,1.435
+Methanol,50,60,1.432
+Methanol,50,60,1.432
+Methanol,50,60,1.432
+Methanol,50,60,1.432
+Methanol,60,15,1.432
+Methanol,60,15,1.451
+Methanol,60,15,1.432
+Methanol,60,15,1.432
+Methanol,60,45,1.435
+Methanol,60,45,1.435
+Methanol,60,45,1.435
+Methanol,60,45,1.435
+Methanol,60,60,1.432
+Methanol,60,60,1.432
+Methanol,60,60,1.432
+Methanol,60,60,1.432
+Methanol,70,15,1.451
+Methanol,70,15,1.451
+Methanol,70,15,1.455
+Methanol,70,15,1.455
+Methanol,70,45,1.45
+Methanol,70,45,1.45
+Methanol,70,45,1.45
+Methanol,70,45,1.45
+Methanol,70,60,1.452
+Methanol,70,60,1.452
+Methanol,70,60,1.453
+Methanol,70,60,1.453
+Methanol,80,15,1.482
+Methanol,80,15,1.482
+Methanol,80,15,1.477
+Methanol,80,15,1.477
+Methanol,80,45,1.484
+Methanol,80,45,1.484
+Methanol,80,45,1.48
+Methanol,80,45,1.48
+Methanol,80,60,1.481
+Methanol,80,60,1.481
+Methanol,80,60,1.477
+Methanol,80,60,1.477
+Methanol,In natura,15,1.377
+Methanol,In natura,15,1.377
+Methanol,In natura,15,1.379
+Methanol,In natura,15,1.379
+Methanol,In natura,45,1.379
+Methanol,In natura,45,1.379
+Methanol,In natura,45,1.378
+Methanol,In natura,45,1.378
+Methanol,In natura,60,1.377
+Methanol,In natura,60,1.377
+Methanol,In natura,60,1.376
+Methanol,In natura,60,1.376
+Hexane,40,15,1.417
+Hexane,40,15,1.417
+Hexane,40,15,1.416
+Hexane,40,15,1.416
+Hexane,40,45,1.412
+Hexane,40,45,1.412
+Hexane,40,45,1.414
+Hexane,40,45,1.414
+Hexane,40,60,1.411
+Hexane,40,60,1.411
+Hexane,40,60,1.41
+Hexane,40,60,1.41
+Hexane,50,15,1.408
+Hexane,50,15,1.408
+Hexane,50,15,1.416
+Hexane,50,15,1.416
+Hexane,50,45,1.409
+Hexane,50,45,1.409
+Hexane,50,45,1.417
+Hexane,50,45,1.417
+Hexane,50,60,1.416
+Hexane,50,60,1.416
+Hexane,50,60,1.417
+Hexane,50,60,1.417
+Hexane,60,15,1.411
+Hexane,60,15,1.411
+Hexane,60,15,1.415
+Hexane,60,15,1.415
+Hexane,60,45,1.409
+Hexane,60,45,1.409
+Hexane,60,45,1.409
+Hexane,60,45,1.409
+Hexane,60,60,1.415
+Hexane,60,60,1.415
+Hexane,60,60,1.414
+Hexane,60,60,1.414
+Hexane,70,15,1.412
+Hexane,70,15,1.412
+Hexane,70,15,1.41
+Hexane,70,15,1.41
+Hexane,70,45,1.413
+Hexane,70,45,1.413
+Hexane,70,45,1.411
+Hexane,70,45,1.411
+Hexane,70,60,1.411
+Hexane,70,60,1.411
+Hexane,70,60,1.408
+Hexane,70,60,1.408
+Hexane,80,15,1.41
+Hexane,80,15,1.41
+Hexane,80,15,1.413
+Hexane,80,15,1.413
+Hexane,80,45,1.408
+Hexane,80,45,1.408
+Hexane,80,45,1.412
+Hexane,80,45,1.412
+Hexane,80,60,1.411
+Hexane,80,60,1.411
+Hexane,80,60,1.41
+Hexane,80,60,1.41
+Hexane,In natura,15,1.38
+Hexane,In natura,15,1.38
+Hexane,In natura,15,1.38
+Hexane,In natura,15,1.38
+Hexane,In natura,45,1.377
+Hexane,In natura,45,1.377
+Hexane,In natura,45,1.376
+Hexane,In natura,45,1.376
+Hexane,In natura,60,1.378
+Hexane,In natura,60,1.378
+Hexane,In natura,60,1.381
+Hexane,In natura,60,1.381
