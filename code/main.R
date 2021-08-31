@@ -13,12 +13,12 @@ load_required_packages(c("this.path", "readr", "tibble", "dplyr", "FuzzyR"))
 current_dir <- this.path::this.dir()
 
 # loading needed underlying functions
-source(file.path(current_dir, "FIS-ANFIS-Chia.R"))
+source(file.path(current_dir, "Fuzzy-Chia.R"))
 
 
 # reading the dataset from its standard location and using its standard name
 chia_dataset <- read_csv(file.path(current_dir, "../data/dataset.csv"))
-k <- 2
+k <- 5 # you can modify the number of executions of holdout here
 
 results <- execute_repeated_holdout(chia_dataset, k)
 
