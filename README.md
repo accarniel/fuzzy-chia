@@ -12,6 +12,6 @@ This project is also publicly available in CodeOcean [here](https://codeocean.co
 
 # Associated research paper
 
-As a result of the implemented fuzzy inference systems, we have published the following research paper:
+We have employed the implementation of these fuzzy systems in the following research paper:
 
 - [Johann, G.; Santos, C. S.; Montanher, P. F; Oliveira, R. A. P.; Carniel, A. C. Applying Fuzzy Inference Systems in the Extraction of Chia Cake Extract: Predicting the Mass Yield. In: 2021 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2021, pp. 1-6.](https://ieeexplore.ieee.org/document/9494541)
