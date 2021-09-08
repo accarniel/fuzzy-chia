@@ -4,7 +4,7 @@ We implement four different fuzzy inference systems, where two of them are based
 
 The fuzzy systems are modeled to build an expert system that predicts the mass yield of the chia cake extract, which is an important measure to analyze the efficiency of an extraction, by using three important parameters employed by extractions: (i) solvent, (ii) temperature, and (iii) extraction time (i.e., period). We make use of a real dataset (available together with this implementation) that contains several observations of real extractions. 
 
-As a result, our implementation provides tables containing accuracy measures i.e., MAE, RMSE, MAPE, R²) that allow us to identify the most promising fuzzy system for the problem. Further, our implementation is fully reproducible and its methodology of development can be extensible to deal with similar problems, such as the prediction of the mass yield or other measures in other organic matrices
+As a result, our implementation provides tables containing accuracy measures (i.e., MAE, RMSE, MAPE, R²) that allow us to identify the most promising fuzzy system for the problem. Further, our implementation is fully reproducible and its methodology of development can be extensible to deal with similar problems, such as the prediction of the mass yield or other measures in other organic matrices
 
 # How to use?
 
