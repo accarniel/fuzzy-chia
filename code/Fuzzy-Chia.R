@@ -47,17 +47,17 @@ assign_vars_to_fis <- function(fis, solvent) {
   # adding the fuzzy sets (with their linguistic values) for each variable
   
   # extraction time
-  fis <- addmf(fis, "input", 1, "low", "gbellmf", c(15, 2, 10, 1))
-  fis <- addmf(fis, "input", 1, "medium", "gbellmf", c(10, 2, 40, 1))
-  fis <- addmf(fis, "input", 1, "high", "gbellmf", c(40, 5, 80, 1))
+  fis <- addmf(fis, "input", 1, "low", "gbellmf", c(15, 2, 10))
+  fis <- addmf(fis, "input", 1, "medium", "gbellmf", c(10, 2, 40))
+  fis <- addmf(fis, "input", 1, "high", "gbellmf", c(40, 5, 80))
   
   # temperature
-  fis <- addmf(fis, "input", 2, "in natura", "gbellmf", c(25, 10, 10, 1))
-  fis <- addmf(fis, "input", 2, "low", "gbellmf", c(2, 1.5, 40, 1))
-  fis <- addmf(fis, "input", 2, "low medium", "gbellmf", c(2, 1.5, 50, 1))
-  fis <- addmf(fis, "input", 2, "medium", "gbellmf", c(2, 1.5, 60, 1))
-  fis <- addmf(fis, "input", 2, "low high", "gbellmf", c(2, 1.5, 70, 1))
-  fis <- addmf(fis, "input", 2, "high", "gbellmf", c(2, 2, 80, 1))
+  fis <- addmf(fis, "input", 2, "in natura", "gbellmf", c(25, 10, 10))
+  fis <- addmf(fis, "input", 2, "low", "gbellmf", c(2, 1.5, 40))
+  fis <- addmf(fis, "input", 2, "low medium", "gbellmf", c(2, 1.5, 50))
+  fis <- addmf(fis, "input", 2, "medium", "gbellmf", c(2, 1.5, 60))
+  fis <- addmf(fis, "input", 2, "low high", "gbellmf", c(2, 1.5, 70))
+  fis <- addmf(fis, "input", 2, "high", "gbellmf", c(2, 2, 80))
   
   if(!(fis$type %in% c("mamdani", "tsk"))) {
     stop("Invalid fuzzy inference system.", call. = FALSE)
